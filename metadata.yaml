@@ -1,5 +1,8 @@
 _repo: The-World-of-Flying-Saucers-A-Scientific-Examination-of-a-Major-Myth-of-the-Space-Age_66639
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66639-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Menzel, Donald H.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53894'
     url: http://www.gutenberg.org/2009/agents/53894
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66639#The-World-of-Flying-Saucers-A-Scientific-Examination-of-a-Major-Myth-of-the-Space-Age
 gutenberg_issued: '2021-11-01'
 identifiers:
   gutenberg: '66639'
